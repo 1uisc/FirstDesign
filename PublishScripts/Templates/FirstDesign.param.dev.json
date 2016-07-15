@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "FirstDesign"
+  },
+  "hostingPlanName": {
+    "value": "TestPlan"
+  },
+  "siteLocation": {
+    "value": "Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "3b90bf80-8d88-40a7-a050-bd5cb6b5c0b3"
+  },
+  "resourceGroup": {
+    "value": "TestResourceGroup"
+  }
+}

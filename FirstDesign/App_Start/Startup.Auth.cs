@@ -58,11 +58,11 @@ namespace FirstDesign
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "luiscordobahoyosgmail.com",
+                ClientSecret = "AIzaSyBoOYTXbC61TSwgCaIj6JptLvCjEMAoqvw"
+            });
         }
     }
 }

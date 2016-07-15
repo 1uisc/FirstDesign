@@ -20,12 +20,12 @@ namespace FirstDesign
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.js",
-                      "~/Scripts/respond.js"));
+                      "~/Scripts/materialize/materialize.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/materialize/css/materialize.css",
+                      "~/Content/materialize/css/style.css"));
+
         }
     }
 }
