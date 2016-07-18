@@ -60,8 +60,8 @@ namespace FirstDesign
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "luiscordobahoyosgmail.com",
-                ClientSecret = "AIzaSyBoOYTXbC61TSwgCaIj6JptLvCjEMAoqvw"
+                ClientId = "880566307824-ghg2rrjhor0jnmutdfotguufsjhq6148.apps.googleusercontent.com",
+                ClientSecret = "qvB2_AbNPpzduOyCGSOQ3nHk"
             });
         }
     }
